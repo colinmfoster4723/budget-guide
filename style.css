@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background: #000000;
+  margin: 0;
+  padding: 0;
+  overscroll-behavior: none;
+}
+
+h1 {
+  position: absolute;
+  font-size: 250%;
+  color: white;
+}
